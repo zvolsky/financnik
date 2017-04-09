@@ -1,0 +1,2 @@
+# financnik
+python kurz
